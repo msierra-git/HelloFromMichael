@@ -10,5 +10,8 @@ public class Main {
 	    System.out.println(msg2);
 
 	    System.out.println("Let's continue supporting each other. We can do this!");
+
+	    String msg3 = "Hello everyone, so glad to work with you!";
+		System.out.println(msg3);
     }
 }
